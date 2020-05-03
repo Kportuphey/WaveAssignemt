@@ -1,0 +1,1 @@
+Q3.SELECT DISTINCT COUNT (u_id) FROM transfer WHERE currency='CFA'
